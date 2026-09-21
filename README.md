@@ -1,4 +1,4 @@
-# Autonomous AI Chatbot Robot with Movement and Voice Interaction
+## 🤖 Autonomous AI Chatbot Robot with Movement and Voice Interaction
 
 A robot that moves around on its own, avoids obstacles, detects nearby people, and talks with them in natural language. A Raspberry Pi 4 handles the "brain" (speech recognition, a local LLM, text-to-speech), while an Arduino Uno handles the "reflexes" (sensors and motors).
  
@@ -48,3 +48,17 @@ Raspberry Pi 4 (4GB), Arduino Uno R3, HC-SR04 ultrasonic sensor, HC-SR505 PIR se
  
 - A 2.4A power bank can slow the Pi during heavy inference (it needs 3A).
 - Voice response can lag on the Pi 4 with TinyLlama.
+
+
+
+## Team
+ 
+| Members |
+|---|
+| Tauhidul Islam Pranto |
+| Puspita Biswas Oishee |
+| Aishiki Banik |
+| Faiyaz Bin Yousuf |
+| Fahmida Haque Mahima |
+ 
+Department of Computer Science and Engineering, BRAC University
